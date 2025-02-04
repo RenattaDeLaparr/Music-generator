@@ -5,7 +5,7 @@ All .java source files
 The MANIFEST.MF file
 
 
-After successfully creating and running the JAR file, the text appearance changes dynamically as seen in the provided images. (see repo)
+After successfully creating and running the JAR file, the text appearance changes dynamically as seen in the provided video. (see "Aufzeichnung")
 
 Java Version Compatibility
 Since this project extends an older program, the code was written to be compatible with a specific Java version.
